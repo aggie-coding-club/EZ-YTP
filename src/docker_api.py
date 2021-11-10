@@ -9,7 +9,7 @@ files = {
     'transcript': ('words.txt', open('test_files/words.txt', 'rb')),
 }
 
-response = requests.post('http://localhost:49153/transcriptions', params=params, files=files)
+response = requests.post('http://localhost:8765/transcriptions', params=params, files=files)
 
 body = response.json()
 
