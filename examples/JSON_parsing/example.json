@@ -1,0 +1,26 @@
+{
+    "name": "Johnny",
+    "age": 30,
+    "can_paint": false,
+    "car": {
+        "year": 2021,
+        "wheels": 4
+    },
+    "sticks": [
+        {
+            "material": "wood",
+            "shape": "straight",
+            "length": 3
+        },
+        {
+            "material": "metal",
+            "shape": "curved",
+            "length": 2.5
+        },
+        {
+            "material": "plastic",
+            "shape": "straight",
+            "length": 5
+        }
+    ]
+}
