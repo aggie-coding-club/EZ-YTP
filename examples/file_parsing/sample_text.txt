@@ -1,0 +1,3 @@
+Sticks 1 2 4 6
+Cars 0 2 4 1
+Rocks 10 21 4
