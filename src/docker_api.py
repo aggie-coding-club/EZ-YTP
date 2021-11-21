@@ -5,7 +5,7 @@ params = (
 )
 
 files = {
-    'audio': ('words.mp3', open('test_files/words.mp3', 'rb')),
+    'audio': ('words.mp3', open('test_files/words.mp4', 'rb')),
     'transcript': ('words.txt', open('test_files/words.txt', 'rb')),
 }
 
